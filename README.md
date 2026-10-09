@@ -15,3 +15,7 @@ TP 02 PHP — Programmation Web 2 — 2026/2027
 - Validité des variables :
 $a, $_a, $a_a, $AAA et $a1 sont valides .
 $a! et $1a sont invalides .
+- <Exercice 4> :
+- la différence d'affichage de `false` entre `echo` et `var_dump()` : 
+'echo' n'affiche rien car il convert la valeur 'false' avant l'affichage ce qui donne rien .
+'var_dump()' affiche le type et valeur de 'false' .

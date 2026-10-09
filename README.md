@@ -19,3 +19,12 @@ $a! et $1a sont invalides .
 - la différence d'affichage de `false` entre `echo` et `var_dump()` : 
 'echo' n'affiche rien car il convert la valeur 'false' avant l'affichage ce qui donne rien .
 'var_dump()' affiche le type et valeur de 'false' .
+- <Exercice 5> :
+Les résultats obtenu lors des tests de la variables '$moyenne':
+- -1 : Note invalide
+- 9 : Non validé
+- 10 : Passable
+- 12 : Assez bien
+- 14 : Bien
+- 16 : Très bien
+- 21 : Note invalide

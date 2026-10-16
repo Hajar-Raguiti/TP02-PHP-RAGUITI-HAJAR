@@ -28,3 +28,7 @@ Les résultats obtenu lors des tests de la variables '$moyenne':
 - 14 : Bien
 - 16 : Très bien
 - 21 : Note invalide
+- <Exercice 10> :
+(Partie GET) : les valeurs saisis dans le formulaire apparaissent dans l'URL :
+http://localhost:8000/ex10_get.php?nom=Raguiti&prenom=Hajar&groupe=G2
+(Partie POST) : les valeurs n'apparaissent pas dans l'URL :http://localhost:8000/ex10_post.php
